@@ -89,23 +89,23 @@
   </tr>
   <tr>
     <td align="center">
-     <img src="https://img.icons8.com/nolan/64/html-5.png"/ alt="html">
+     <img src="https://img.icons8.com/nolan/64/html-5.png" alt="html" />
     </td>
     <td align="center">
-     <img src="https://img.icons8.com/dusk/64/000000/css3.png"/ alt="css">
+     <img src="https://img.icons8.com/dusk/64/000000/css3.png" alt="css" />
     </td>
     <td align="center">
       <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap"/>
     </td> 
     <td align="center">
-      <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" alt="tailwind css">
-    <td/>  
+      <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" alt="tailwind css" />
+    </td>  
     <td align="center">
       <img src="https://img.icons8.com/plasticine/48/000000/react.png"/>
-    <td/>
-     <td align="center">
+    </td>
+    <td align="center">
       <img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
-    <td/>
+    </td>
   </tr>
 </table>
 <!--
