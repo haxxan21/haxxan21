@@ -9,7 +9,7 @@
 <p align="center"> ⚡ Fun fact: Crazy About LAMP Stack </p>
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=haxxan21&theme=radical&langs_count=6&layout=compact"><img alt="haxxan21 Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haxxan&theme=radical&langs_count=6&layout=compact" /></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=haxxan21&theme=radical&langs_count=6&layout=compact"><img alt="haxxan21 Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haxxan21&theme=radical&langs_count=6&layout=compact"></a>
  </p>
  
  <h2>🔌 Connect with me </h2>
@@ -43,11 +43,11 @@
       <img src="https://i0.wp.com/phpmagazine.net/wp-content/uploads/2020/09/php8.png?fit=420%2C206&ssl=1" height="60">
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/color/50/000000/django.png"/ height="60">
+      <img src="https://img.icons8.com/color/50/000000/django.png" height="60">
     </td> 
     <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/nodejs.png" height="60"/>
-    <td/>  
+      <img src="https://img.icons8.com/color/48/000000/nodejs.png" height="60">
+    </td>  
   </tr>
 </table>
 
@@ -72,7 +72,7 @@
     </td> 
     <td align="center">
      <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-    <td/>  
+    </td>  
   </tr>
 </table>
 
