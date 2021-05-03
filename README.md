@@ -1,12 +1,12 @@
 <h1 align="center">
-  Hi There
+  Hello Visitor
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<h3 align="center">Building quality websites and applications.</h3>
+<h3 align="center">Building quality websites and applications. </h3>
 
 <p align="center"> 💼 Working at <a href="https://leadconcept.com/">LEADconcept Solution Leaders</a> </p> 
-<p align="center"> ⚡ Fun fact: Addicted to Nicotine !</p>
+<p align="center"> ⚡ Fun fact: Addicted to Nicotine 🔥</p>
 
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=haxxan21&theme=radical&langs_count=6&layout=compact"><img alt="haxxan21 Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haxxan21&theme=radical&langs_count=6&layout=compact"></a>
@@ -125,7 +125,7 @@
   <span><img src="https://github.com/keikomori/icons-badges/blob/master/icons/WordPress/wordpress.svg" alt="wordpress" width="40" height="40"/></span>
 </p>
 
-<h2>🔥 Streak Stats</h2>
+<h2>Streak Stats</h2>
 
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=haxxan21&theme=dracula" alt="haxxan21" />
