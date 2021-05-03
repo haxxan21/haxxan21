@@ -6,7 +6,7 @@
 <h3 align="center">Building quality websites and applications.</h3>
 
 <p align="center"> 💼 Working at <a href="https://leadconcept.com/">LEADconcept Solution Leaders</a> </p> 
-<p align="center"> ⚡ Fun fact: Crazy About LAMP Stack </p>
+<p align="center"> ⚡ Fun fact: Addicted to Nicotine !</p>
 
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=haxxan21&theme=radical&langs_count=6&layout=compact"><img alt="haxxan21 Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haxxan21&theme=radical&langs_count=6&layout=compact"></a>
@@ -103,11 +103,33 @@
     <td align="center">
       <img src="https://img.icons8.com/plasticine/48/000000/react.png"/>
     </td>
-    <td align="center">
+    <td align="center">￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼
       <img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
     </td>
   </tr>
 </table>
+
+<h2> Skills </h2>
+
+<p>
+  <span><img src="https://img.icons8.com/ios/50/000000/php-logo.png" width="40" height="40"></span>
+  <span><img src="https://img.icons8.com/dusk/64/000000/python.png" width="40" height="40" alt="python"></span>
+  <span><img src="https://img.icons8.com/dusk/64/000000/javascript.png" width="40" height="40" alt="javascript"></span>
+  <span><img src="https://img.icons8.com/color/48/000000/json.png" width="40" height="40" alt="json"></span>
+  <span><img src="https://img.icons8.com/dusk/64/000000/postman-api.png"  width="40" height="40" alt="postman"></span>
+  <span><img src="https://github.com/keikomori/icons-badges/blob/master/icons/VSCode/vscode.svg" alt="vscode" width="40" height="40"></span>
+  <span><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Windows/windows.svg" alt="windows" width="40" height="40"></span>
+  <span><img src="https://img.icons8.com/dusk/64/000000/linux.png" width="40" height="40" alt="linux"></span>
+  <span><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Git/git.svg" alt="git" width="40" height="40"alt="git"/></span>
+  <span><img src="https://img.icons8.com/color/48/000000/npm.png" alt="npm" width="40" height="40"></span>
+  <span><img src="https://github.com/keikomori/icons-badges/blob/master/icons/WordPress/wordpress.svg" alt="wordpress" width="40" height="40"/></span>
+</p>
+
+<h2>🔥 Streak Stats</h2>
+
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=haxxan21&theme=dracula" alt="haxxan21" />
+</p>
 <!--
 **haxxan21/haxxan21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
