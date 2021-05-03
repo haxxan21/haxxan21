@@ -28,7 +28,7 @@
 
 <h2> Back End Development Stack </h2>
 
-<table style="margin: 0 auto">
+<table>
   <tr>
     <th align="center">Laravel</th>
     <th align="center">PHP</th>
@@ -53,7 +53,7 @@
 
 <h2> Databases Stack </h2>
 
-<table style="margin: 0 auto">
+<table>
   <tr>
     <th align="center">MYSQL</th>
     <th align="center">SQL/TSQL</th>
@@ -78,7 +78,7 @@
 
 <h2> Frontend Stack </h2>
 
-<table style="margin: 0 auto">
+<table>
   <tr>
     <th align="center">HTML</th>
     <th align="center">CSS</th>
@@ -103,7 +103,7 @@
     <td align="center">
       <img src="https://img.icons8.com/plasticine/48/000000/react.png"/>
     </td>
-    <td align="center">￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼
+    <td align="center">
       <img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
     </td>
   </tr>
