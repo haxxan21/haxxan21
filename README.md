@@ -26,9 +26,9 @@
   </a>
 </p>
 
-### Back End Development Stack
+<h2> Back End Development Stack </h2>
 
-<table>
+<table style="margin: 0 auto">
   <tr>
     <th align="center">Laravel</th>
     <th align="center">PHP</th>
@@ -51,9 +51,9 @@
   </tr>
 </table>
 
-### Databases Stack
+<h2> Databases Stack </h2>
 
-<table>
+<table style="margin: 0 auto">
   <tr>
     <th align="center">MYSQL</th>
     <th align="center">SQL/TSQL</th>
@@ -76,9 +76,9 @@
   </tr>
 </table>
 
-### Frontend Stack
+<h2> Frontend Stack </h2>
 
-<table>
+<table style="margin: 0 auto">
   <tr>
     <th align="center">HTML</th>
     <th align="center">CSS</th>
