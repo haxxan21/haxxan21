@@ -1,3 +1,8 @@
+<style>
+.markdown-body table {
+    margin: 0 auto;
+ }
+</style>
 <h1 align="center">
   Hello Visitor
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -26,7 +31,7 @@
   </a>
 </p>
 
-<h2> Back End Development </h2>
+<h2> Backend </h2>
 
 <table class="mx-0">
   <tr>
