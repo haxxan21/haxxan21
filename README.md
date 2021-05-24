@@ -26,9 +26,9 @@
   </a>
 </p>
 
-<h2> Back End Development Stack </h2>
+<h2> Back End Development </h2>
 
-<table>
+<table class="mx-0">
   <tr>
     <th align="center">Laravel</th>
     <th align="center">PHP</th>
@@ -51,7 +51,7 @@
   </tr>
 </table>
 
-<h2> Databases Stack </h2>
+<h2> Databases </h2>
 
 <table>
   <tr>
@@ -76,7 +76,7 @@
   </tr>
 </table>
 
-<h2> Frontend Stack </h2>
+<h2> Frontend </h2>
 
 <table>
   <tr>
