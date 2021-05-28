@@ -6,7 +6,7 @@
 <h3 align="center">Building quality websites and applications. </h3>
 
 <p align="center"> 💼 Working at <a href="https://leadconcept.com/">LEADconcept Solution Leaders</a> </p> 
-<p align="center"> ⚡ Fun fact: Addicted to Nicotine 🔥</p>
+<p align="center"> ⚡ Fun fact: Addicted to Nicotine 🔥 </p>
 
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=haxxan21&theme=radical&langs_count=6&layout=compact"><img alt="haxxan21 Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haxxan21&theme=radical&langs_count=6&layout=compact"></a>
@@ -131,16 +131,5 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=haxxan21&theme=dracula" alt="haxxan21" />
 </p>
 <!--
-**haxxan21/haxxan21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**haxxan21/haxxan21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**
 -->
