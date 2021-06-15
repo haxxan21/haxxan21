@@ -6,7 +6,7 @@
 <h3 align="center">Building quality websites and applications. </h3>
 
 <p align="center"> 💼 Working at <a href="https://leadconcept.com/">LEADconcept Solution Leaders</a> </p> 
-<p align="center"> ⚡ Fun fact: Addicted to Nicotine 🔥 </p>
+<p align="center"> ⚡ Fun fact: CyberSecurity Enthusiast 🔥 </p>
 
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=haxxan21&theme=radical&langs_count=6&layout=compact"><img alt="haxxan21 Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haxxan21&theme=radical&langs_count=6&layout=compact"></a>
