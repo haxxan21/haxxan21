@@ -12,7 +12,7 @@
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=haxxan21&theme=radical&langs_count=6&layout=compact"><img alt="haxxan21 Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haxxan21&theme=radical&langs_count=6&layout=compact"></a>
  </p>
  
- <h2>🔌 Connect with me </h2>
+ <h2>🔌 Connect with me ![](https://komarev.com/ghpvc/?username=haxxan21&color=green) </h2>
  
  <p align="center">
   <a href="https://www.linkedin.com/in/tayyeb-hassan-45b17a110/">
