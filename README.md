@@ -5,7 +5,7 @@
 
 <h3 align="center">Building quality websites and applications. </h3>
 
-<p align="center"> 💼 Working at <a href="https://familytime.io/">Family Time</a> </p> 
+<p align="center"> 💼 Works at <a href="https://familytime.io/">Family Time</a> </p> 
 <p align="center"> ⚡ Fun fact: CyberSecurity Enthusiast 🔥 </p>
 
 <p align="center">
