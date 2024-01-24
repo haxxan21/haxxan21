@@ -93,7 +93,7 @@
       <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap"/>
     </td> 
     <td align="center">
-      <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" alt="tailwind css" />
+      <img src="https://logowik.com/content/uploads/images/tailwind-css3232.logowik.com.webp" alt="tailwind css" />
     </td>  
     <td align="center">
       <img src="https://img.icons8.com/plasticine/48/000000/react.png"/>
