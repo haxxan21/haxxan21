@@ -80,6 +80,7 @@
     <th align="center">Tailwind</th>
     <th align="center">React</th>
     <th align="center">VueJs</th>
+    <th align="center">Angular</th>
   </tr>
   <tr>
     <td align="center">
@@ -101,7 +102,7 @@
       <img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
     </td>
     <td align="center">
-      <img src="https://th.bing.com/th/id/R.de296799a253f34f3aad4e036a55bd63?rik=om%2bALVQ41FELjQ&pid=ImgRaw&r=0" alt="angular"/>
+      <img src="https://th.bing.com/th/id/R.de296799a253f34f3aad4e036a55bd63?rik=om%2bALVQ41FELjQ&pid=ImgRaw&r=0" alt="angular" max-width="15%"/>
     </td>
   </tr>
 </table>
