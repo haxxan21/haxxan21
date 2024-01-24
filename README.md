@@ -15,13 +15,7 @@
  <h2>🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=haxxan21&color=green" alt="haxxan21" /> </h2>
  
  <p align="center">
-  <a href="https://www.linkedin.com/in/tayyeb-hassan-45b17a110/">
-    <img align="center" src="https://github.com/ryihan/ryihan-material/blob/main/Icon/linkedin.svg" alt="linkedin" />
-  </a>
-  <a href="mailto:malikhassan053@gmail.com">
-    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Gmail/gmail.svg" alt="gmail" />
-  </a>
-  <a href="https://stackoverflow.com/users/9658195/hassan-malik">
+   <a href="https://stackoverflow.com/users/9658195/hassan-malik">
     <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Stackoverflow/stackoverflow.svg" alt="stackoverflow" />
   </a>
 </p>
@@ -106,6 +100,9 @@
     <td align="center">
       <img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
     </td>
+    <td align="center">
+      <img src="https://th.bing.com/th/id/R.de296799a253f34f3aad4e036a55bd63?rik=om%2bALVQ41FELjQ&pid=ImgRaw&r=0" alt="angular"/>
+    </td>
   </tr>
 </table>
 
@@ -122,7 +119,6 @@
   <span><img src="https://img.icons8.com/dusk/64/000000/linux.png" width="40" height="40" alt="linux"></span>
   <span><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Git/git.svg" alt="git" width="40" height="40"alt="git"/></span>
   <span><img src="https://img.icons8.com/color/48/000000/npm.png" alt="npm" width="40" height="40"></span>
-  <span><img src="https://github.com/keikomori/icons-badges/blob/master/icons/WordPress/wordpress.svg" alt="wordpress" width="40" height="40"/></span>
 </p>
 
 <h2>Streak Stats</h2>
