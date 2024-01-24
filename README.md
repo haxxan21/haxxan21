@@ -102,7 +102,7 @@
       <img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
     </td>
     <td align="center">
-      <img src="https://th.bing.com/th/id/R.de296799a253f34f3aad4e036a55bd63?rik=om%2bALVQ41FELjQ&pid=ImgRaw&r=0" alt="angular" max-width="15%"/>
+      <img src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png" alt="angular" max-width="15%"/>
     </td>
   </tr>
 </table>
