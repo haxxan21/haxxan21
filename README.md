@@ -46,7 +46,6 @@
 </table>
 
 <h2> Databases </h2>
-
 <table style="margin:0 auto">
   <tr>
     <th align="center">MYSQL</th>
