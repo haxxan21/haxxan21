@@ -1,13 +1,3 @@
-<style>
-.markdown-body table {
-    display: block;
-    width: 100%;
-    width: max-content;
-    max-width: 100%;
-    overflow: auto;
-    margin: 0 auto;
-}
-</style>
 <h1 align="center">
   Hello Visitor
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
@@ -32,7 +22,7 @@
 
 <h2> Backend </h2>
 
-<table class="mx-0">
+<table style="margin:0 auto">
   <tr>
     <th align="center">Laravel</th>
     <th align="center">PHP</th>
@@ -57,7 +47,7 @@
 
 <h2> Databases </h2>
 
-<table>
+<table style="margin:0 auto">
   <tr>
     <th align="center">MYSQL</th>
     <th align="center">SQL/TSQL</th>
@@ -82,7 +72,7 @@
 
 <h2> Frontend </h2>
 
-<table>
+<table style="margin:0 auto">
   <tr>
     <th align="center">HTML</th>
     <th align="center">CSS</th>
