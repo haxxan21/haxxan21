@@ -1,3 +1,13 @@
+<style>
+.markdown-body table {
+    display: block;
+    width: 100%;
+    width: max-content;
+    max-width: 100%;
+    overflow: auto;
+    margin: 0 auto;
+}
+</style>
 <h1 align="center">
   Hello Visitor
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
@@ -109,7 +119,7 @@
 
 <h2> Skills </h2>
 
-<p>
+<p align="center>
   <span><img src="https://img.icons8.com/ios/50/000000/php-logo.png" width="40" height="40"></span>
   <span><img src="https://img.icons8.com/dusk/64/000000/python.png" width="40" height="40" alt="python"></span>
   <span><img src="https://img.icons8.com/dusk/64/000000/javascript.png" width="40" height="40" alt="javascript"></span>
